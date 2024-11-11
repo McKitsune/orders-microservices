@@ -32,7 +32,7 @@ Cada servicio es independiente y se comunica con los demás mediante mensajes o 
 2. Instala las dependencias en cada uno de los servicios:
    ```bash
    npm install
-```
+`
 3. Configura las variables de entorno en cada servicio, especialmente para conectar con Redis y otros servicios  externos.
 4. Inicia los servicios utilizando Docker o manualmente desde el CLI de NestJS.
 
